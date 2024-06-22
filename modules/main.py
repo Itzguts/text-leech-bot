@@ -11,7 +11,6 @@ from pyrogram.types import Message
 from pyrogram import Client, filters
 from subprocess import getstatusoutput
 from aiohttp import ClientSession
-import helper
 from logger import logging
 import time
 import asyncio
